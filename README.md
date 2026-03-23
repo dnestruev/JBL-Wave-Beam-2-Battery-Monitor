@@ -53,8 +53,7 @@
 1. Скачайте ZIP архив (Code → Download ZIP)
 2. Распакуйте в любую папку
 3. Установите Python с [python.org](https://python.org)
-4. Запустите `setup.bat` (Windows) или `setup.sh` (Mac/Linux)
-5. Дважды кликните `run.bat` или `run.sh`
+4. Запустите main.py
 
 ### Через Git:
 ```bash
