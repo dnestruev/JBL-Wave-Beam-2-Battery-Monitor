@@ -63,4 +63,5 @@ cd JBL-Wave-Beam-2-Battery-Monitor
 pip install -r requirements.txt
 python main.py
 
+###
 <p align="center"> <b>⭐ Поставьте звезду, чтобы не пропустить полный релиз летом 2026! ⭐</b><br> 🐛 Сообщайте об ошибках в <a href="https://github.com/dnestruev/JBL-Wave-Beam-2-Battery-Monitor/issues">Issues</a><br> 💡 Предлагайте идеи в <a href="https://github.com/dnestruev/JBL-Wave-Beam-2-Battery-Monitor/discussions">Discussions</a> </p><p align="center"> <i>Делаем JBL удобнее вместе! 🎧✨</i> </p> ```
